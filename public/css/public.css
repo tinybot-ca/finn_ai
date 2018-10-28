@@ -1,0 +1,22 @@
+.logo-img {
+    height: 32px;
+}
+
+h4 {
+    font-size: 1.1em;
+    font-weight: normal;
+    padding: 0;
+    margin: 0;
+}
+
+.card-body {
+    margin-bottom: 0;
+}
+
+.card-bg-light {
+    background-color: #f6faff;
+} 
+
+.grid-bg {
+    background-color: #e8eff7;
+} 
