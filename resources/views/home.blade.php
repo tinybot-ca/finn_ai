@@ -30,7 +30,7 @@
 
                     <!-- Table of contents -->
                     <li class="list-group-item">
-                        00:00 &nbsp;<a href="javascript:void(0)" onclick="seek(0)">Introduction (Hi Lynda!)</a>
+                        00:00 &nbsp;<a href="javascript:void(0)" onclick="seek(0)">Introduction (Hi, Linda!)</a>
                     </li>
                     <li class="list-group-item">
                         00:51 &nbsp;<a href="javascript:void(0)" onclick="seek(51)">Personalized B2B video tool for the YouTube generation</a>
